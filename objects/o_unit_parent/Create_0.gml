@@ -26,7 +26,6 @@ bdisplay_health = true;
 bdisplay_magic = false;
 bdisplay_time = true;
 
-
 healthbar_width = 50;
 healthbar_height = 5;
 healthbar_x = 0;

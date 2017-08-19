@@ -11,6 +11,6 @@ nextexperience = 10;
 
 money = 1000;
 
-skills = array_create();
-cards = array_create();
-deck = array_create();
+//skills = array_create();
+//cards = array_create();
+//deck = array_create();

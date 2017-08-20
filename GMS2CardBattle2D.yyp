@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "0de37630-26f1-436e-9047-a4db8edf7a10",
+            "Value": {
+                "id": "da1bb7e0-92a9-4b71-9100-5237422ec26d",
+                "resourcePath": "scripts\\scr_btnbdisplay\\scr_btnbdisplay.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "0ff5da99-ae24-4ccc-b6a6-b56b1c83cc30",
             "Value": {
                 "id": "475ff985-64e7-423b-8efc-e66f8897ffe3",
@@ -283,6 +291,14 @@
             "Value": {
                 "id": "7df8ad3a-9af0-4bfc-ad6a-90d0d3ab5393",
                 "resourcePath": "scripts\\ui_select_main\\ui_select_main.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "33943720-e131-4252-8389-06775a9ac3e4",
+            "Value": {
+                "id": "7d6f6f03-96d6-4825-8fe9-5fcb50b2e4ed",
+                "resourcePath": "scripts\\scr_createocard_small\\scr_createocard_small.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -711,6 +727,14 @@
             }
         },
         {
+            "Key": "9435021d-4a95-4300-aa60-5d29dcdc594e",
+            "Value": {
+                "id": "ec8e0989-1fd1-484c-9fb3-8a24d563aed0",
+                "resourcePath": "sprites\\spr_tarot128by221\\spr_tarot128by221.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "95b7bb6b-6e08-47e1-8f9a-a3c2db48a000",
             "Value": {
                 "id": "b82fe812-bf59-405e-a13d-76aafe41bb0f",
@@ -839,6 +863,14 @@
             }
         },
         {
+            "Key": "b2d0c03e-4dd8-4963-9e07-9d3908a07398",
+            "Value": {
+                "id": "11091767-f6bc-44af-90b9-f79cda61fad9",
+                "resourcePath": "objects\\o_card128\\o_card128.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b459eedf-5221-4774-8fbd-be4e73ab4730",
             "Value": {
                 "id": "58248e55-2fc9-435a-a135-2b4871736d64",
@@ -868,6 +900,14 @@
                 "id": "8045eb46-ac7f-47cc-bd60-4141586763b9",
                 "resourcePath": "views\\bac0f264-dbd1-4698-ba67-71bd9a560e83.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "bc4fcf32-91eb-4ef6-bd52-1c625e00c2c4",
+            "Value": {
+                "id": "eff49596-b479-498e-a48b-d48f38d0d750",
+                "resourcePath": "objects\\o_button_card\\o_button_card.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1226,6 +1266,7 @@
         "b71c4d62-3fc5-4d45-b43a-ab085676fafd",
         "9e103945-5539-422a-80c7-be31de84a1e3",
         "f221e49d-a6a4-4de9-8b4c-93005fdf1db7",
+        "33943720-e131-4252-8389-06775a9ac3e4",
         "c7bc48d7-59b0-4e11-8111-95cfa54a88fe",
         "4101eb14-9cbb-4173-96a2-f761b7850d34",
         "31859aea-f105-48f3-a0c4-e4fe0baefd3f",
@@ -1247,7 +1288,8 @@
         "fe2093af-5109-4acf-918e-e9da03185244",
         "4ee3a3ed-9fc7-4762-a0cd-33c52a30ddde",
         "7b6b0f3c-27c7-41fc-a839-899e6bb9fc4a",
-        "c1f86cde-4abd-4600-b0ee-d81587ad338c"
+        "c1f86cde-4abd-4600-b0ee-d81587ad338c",
+        "0de37630-26f1-436e-9047-a4db8edf7a10"
     ],
     "tutorial": ""
 }
